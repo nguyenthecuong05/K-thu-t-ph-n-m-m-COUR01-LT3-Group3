@@ -1,5 +1,5 @@
-# Ky thuat phan mem -COUR01-LT3-Group3.
-Nhóm 3 kỹ thuật phần mềm.
+# Ky thuat phan mem -COUR01-LT3-Group6.
+Nhóm 6 kỹ thuật phần mềm.
 
 
 Chủ đề: Thiết kế phần mềm ...
