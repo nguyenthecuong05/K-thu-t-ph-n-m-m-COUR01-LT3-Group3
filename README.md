@@ -2,7 +2,8 @@
 Nhóm 6 kỹ thuật phần mềm.
 
 
-Chủ đề: Thiết kế phần mềm ...
+Chủ đề: Thiết kế phần mềm Messenger Clone.
+
 
 
 Thành viên:
